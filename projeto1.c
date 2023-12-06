@@ -35,5 +35,7 @@ int main() {
         printf("%d ", vec[i]);
     }
 
+  system("pause");
+
     return 0;
 }
